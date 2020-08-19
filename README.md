@@ -52,4 +52,4 @@ After a few minutes, you should see the functions appear in your AWS Dashboard u
 
 
 ## Other Notes
-The integration with Amazon Connect is included with this repo. These instructions are only the necessary steps to deploy these sample Lambda functions using the Serverless Framework.
+The integration with Amazon Connect is not included with this repo. These instructions are only the necessary steps to deploy these sample Lambda functions using the Serverless Framework.
